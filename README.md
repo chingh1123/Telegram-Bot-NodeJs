@@ -14,4 +14,4 @@
 
 ~ The bot user "BotFather" can help you to create your own bot and setup other things about your bot and more
 
-<img src="https://cdn.discordapp.com/attachments/927468748334563348/947466773383503872/646696c5-7939-4e20-8d7d-16b4426129e2.png" height="500" width="350">
+<img src="https://cdn.discordapp.com/attachments/950229248843604020/970179483330035773/unknown.png" height="500" width="350">
